@@ -2,4 +2,5 @@
 def run_guessing_game
   command = ""
  while command
-  puts ""
+  puts "Guess a number between 1 and 6"
+  
