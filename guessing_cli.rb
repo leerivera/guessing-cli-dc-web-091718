@@ -6,3 +6,4 @@ def run_guessing_game
   command = gets.downcase.chomp
   num = rand(1..6).to_s
   case command.chomp
+  when num
