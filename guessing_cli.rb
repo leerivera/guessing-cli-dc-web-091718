@@ -10,3 +10,5 @@ def run_guessing_game
     puts "You guessed the correct number!"
     when 'exit'
       puts "Goodbye!"
+      break
+      
