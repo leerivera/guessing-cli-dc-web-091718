@@ -9,3 +9,4 @@ def run_guessing_game
   when num
     puts "You guessed the correct number!"
     when 'exit'
+      puts "Goodbye!"
